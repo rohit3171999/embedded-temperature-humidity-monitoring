@@ -1,1 +1,8 @@
 .pio
+*.exe
+*.bin
+*.hex
+*.o
+*.pyc
+.DS_Store
+node_modules/
