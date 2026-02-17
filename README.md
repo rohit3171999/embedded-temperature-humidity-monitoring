@@ -3,7 +3,6 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-Arduino-orange)
 ![Language](https://img.shields.io/badge/language-C++-blue)
-![Status](https://img.shields.io/badge/status-educational-green)
 
 An embedded data acquisition system using the DHT11 sensor for real-time temperature and humidity monitoring with structured documentation and Git workflow discipline.
 
